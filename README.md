@@ -13,7 +13,7 @@ In this repository, I'll be testing an e-commerce website, specifically a demo w
 
 
 ## Document
-- **Test Plan** - [Enter](https://docs.google.com/spreadsheets/d/1qxD-4EcooYUJFrgUhsosYmvHj9GL9ymqYUc1OJgAAbU/edit?gid=0#gid=0)
+- **Test Plan** - [Enter](https://github.com/kevinaldyansyah/Manual_Testing_SauceDemo/blob/main/test-plan.md)
 - **Test Case** - [Enter](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRxf5-F4_5DslnHi2FLxHvZYJQf8bWoZmDrJtD6VyNu8_I5pezbuGcQqi5etRfzJ_GOC7FQWZaVQWG/pubhtml)
 - **Bug Report** - [Enter](https://docs.google.com/spreadsheets/d/1SvJ5MdJCGinGpCrN6V758y4DygF7LvYf7Rh4ak6AqUg/edit?gid=0#gid=0)
 
